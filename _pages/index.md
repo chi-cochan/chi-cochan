@@ -12,34 +12,13 @@ permalink: /
 ### **米津玄師**
 
 <img src="/assets/images/米津玄師.jpg" width="250">
----
+
+
 
 米津さんといえば、2009年から「ハチ」という名義でニコニコ動画でボカロを投稿されていました。
 そして、2012年に本名の「米津玄師」名義で活動を始めたのです！
 私はハチ名義で活動していた頃の米津さんをリアルタイムで見たことはありませんが、
-「」や「」など、今でもよく聞きます！
+「ドーナツホール」や「パンダヒーロー」など、今でもよく聞きます！
 
-[リンク](https://www.google.co.jp/)
-
-**太字**
-
-> 引用
->> 多重引用
-
-
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
-
-
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
-
-
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
-
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+[ドーナツホール](https://www.youtube.com/watch?v=qnX2CdOBcDI&list=RDqnX2CdOBcDI&start_radio=1)
+[パンダヒーロー](https://www.youtube.com/watch?v=0RU_05zpETo&list=RD0RU_05zpETo&start_radio=1)
