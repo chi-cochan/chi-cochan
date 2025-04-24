@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "米津玄師紹介"
 author: default
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
 ## こんにちは！今日は、私が尊敬する**米津玄師**さんについて紹介します！
 ### **米津玄師**
 
-<img src="/assets/images/KenjiYonezu.jpg" width="250">
+<img src="/chi-cochan/assets/images/KenjiYonezu.jpg" width="250">
 
 
 
