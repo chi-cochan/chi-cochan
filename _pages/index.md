@@ -11,9 +11,7 @@ permalink: /
 ## こんにちは！今日は、私が尊敬する**米津玄師**さんについて紹介します！
 ### **米津玄師**
 
-
-
-<img src="/assets/images/米津玄師.jpg" width="250">
+<img src="/assets/images/KenjiYonezu.jpg" width="250">
 
 
 
