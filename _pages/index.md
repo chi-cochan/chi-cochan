@@ -7,8 +7,10 @@ permalink: /
 
 
 
-
-
+# MY FVORITE PERSON
+## こんにちは！今日は、私が尊敬する**米津玄師**さんについて紹介します！
+### **米津玄師**
+![image](/assets/images/米津玄師.jpg)
 ---
 
 以下テンプレート
